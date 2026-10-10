@@ -1,0 +1,9 @@
+# Pinned runtime + dev dependencies (hand-written, no local file:/// paths).
+# Runtime is pure numpy + stdlib. CI installs pytest/ruff from these pins.
+numpy==2.5.3
+pytest==9.1.1
+pytest-cov==7.1.0
+ruff==0.16.10
+packaging==26.3
+pluggy==1.6.0
+pygments==2.21.0
