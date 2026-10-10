@@ -1,5 +1,11 @@
 # WatermarkForge
 
+![CI](https://github.com/CJX0712/watermarkforge/actions/workflows/ci.yml/badge.svg)
+![Release](https://img.shields.io/github/v/release/CJX0712/watermarkforge)
+![License](https://img.shields.io/github/license/CJX0712/watermarkforge)
+![Python](https://img.shields.io/badge/python-3.12%2B-3776AB)
+![Quality](https://img.shields.io/badge/quality-S--grade-2ea44f)
+
 > 文本水印公平性基准与旗舰方案 · A fairness-controlled benchmark of LLM text watermarks, plus a channel-diverse flagship scheme.
 > Author / 作者: **晨星** — MIT License.
 
