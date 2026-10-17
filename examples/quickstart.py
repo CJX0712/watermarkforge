@@ -5,8 +5,6 @@ Author: 晨星
 
 from __future__ import annotations
 
-import numpy as np
-
 from core.config import Config
 from core.seed import set_all
 from core.types import TokenSeq
